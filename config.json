@@ -1,0 +1,10 @@
+{
+  "sessionfile": "C:\\Users\\trevo\\Downloads\\TestHARImport.websurge",
+  "baseurl": "https://ope.nz",
+  "threads": 5,
+  "durationseconds": 30,
+  "warmupseconds": 0,
+  "ramp": true,
+  "shuffle": true,
+  "bearertoken": ""
+}
