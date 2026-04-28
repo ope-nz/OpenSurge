@@ -4,6 +4,8 @@ A Windows desktop tool for HTTP load testing. Open a session file, configure thr
 
 Compatible with the [WebSurge](https://websurge.west-wind.com/) `.websurge` session file format.
 
+![OpenSurge screenshot](screenshot.png)
+
 ---
 
 ## Building
